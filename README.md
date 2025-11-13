@@ -5,7 +5,8 @@
 - Nicole Pereira Guarnieri	 - https://github.com/nick11nic
 - Victor Valerio Fadel - https://github.com/VictorFadel06
 
-**Disciplina:** Programação Lógica e Funcional **Professor:** Frank Coelho de Alcantara
+**Disciplina:** Programação Lógica e Funcional 
+**Professor:** Frank Coelho de Alcantara
 
 ---
 
