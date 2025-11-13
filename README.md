@@ -6,6 +6,7 @@
 - Victor Valerio Fadel - https://github.com/VictorFadel06
 
 **Disciplina:** Programação Lógica e Funcional 
+
 **Professor:** Frank Coelho de Alcantara
 
 ---
